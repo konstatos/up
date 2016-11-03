@@ -1,1 +1,2 @@
 C:\Users\krochev\Desktop\Новая папка\up\WpfUP\WpfUP\bin\Debug\WpfUP.exe.config
+C:\Users\Я\Source\Repos\up\WpfUP\bin\Debug\WpfUP.exe.config
