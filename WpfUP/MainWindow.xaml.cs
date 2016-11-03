@@ -35,6 +35,7 @@ namespace WpfUP
       MessageBox.Show("Hi2!");
       MessageBox.Show("Hi2!");
       MessageBox.Show("Hi2!");
+      MessageBox.Show("Hi3!");
     }
   }
 }
