@@ -32,7 +32,7 @@ namespace WpfUP
 
     private void Button_Copy_OnClick(object sender, RoutedEventArgs e)
     {
-      MessageBox.Show("Hi2!");
+      MessageBox.Show("введены изменения");
     }
   }
 }
