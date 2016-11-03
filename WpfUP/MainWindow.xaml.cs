@@ -29,5 +29,10 @@ namespace WpfUP
     {
       MessageBox.Show("Hi!");
     }
+
+    private void Button_Copy_OnClick(object sender, RoutedEventArgs e)
+    {
+      MessageBox.Show("Hi2!");
+    }
   }
 }

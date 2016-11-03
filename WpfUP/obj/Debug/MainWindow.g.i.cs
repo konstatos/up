@@ -97,6 +97,12 @@ namespace WpfUP {
             return;
             case 2:
             this.button_Copy = ((System.Windows.Controls.Button)(target));
+            
+            #line 11 "..\..\MainWindow.xaml"
+            this.button_Copy.Click += new System.Windows.RoutedEventHandler(this.Button_Copy_OnClick);
+            
+            #line default
+            #line hidden
             return;
             }
             this._contentLoaded = true;
