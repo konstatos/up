@@ -24,5 +24,15 @@ namespace WpfUP
     {
       InitializeComponent();
     }
+
+    private void button_Click(object sender, RoutedEventArgs e)
+    {
+      MessageBox.Show("Hi!");
+    }
+
+    private void Button_Copy_OnClick(object sender, RoutedEventArgs e)
+    {
+      MessageBox.Show("Hi2!");
+    }
   }
 }

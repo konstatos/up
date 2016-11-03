@@ -1,2 +1,16 @@
 C:\Users\krochev\Desktop\Новая папка\up\WpfUP\WpfUP\bin\Debug\WpfUP.exe.config
-C:\Users\Admin\Source\Repos\up\WpfUP\bin\Debug\WpfUP.exe.config
+C:\Users\krochev\Desktop\999\WpfUP\bin\Debug\WpfUP.exe.config
+C:\Users\krochev\Desktop\999\WpfUP\bin\Debug\WpfUP.exe
+C:\Users\krochev\Desktop\999\WpfUP\bin\Debug\WpfUP.pdb
+C:\Users\krochev\Desktop\999\WpfUP\obj\Debug\WpfUP.csprojResolveAssemblyReference.cache
+C:\Users\krochev\Desktop\999\WpfUP\obj\Debug\MainWindow.g.cs
+C:\Users\krochev\Desktop\999\WpfUP\obj\Debug\App.g.cs
+C:\Users\krochev\Desktop\999\WpfUP\obj\Debug\WpfUP_MarkupCompile.cache
+C:\Users\krochev\Desktop\999\WpfUP\obj\Debug\WpfUP_MarkupCompile.lref
+C:\Users\krochev\Desktop\999\WpfUP\obj\Debug\MainWindow.baml
+C:\Users\krochev\Desktop\999\WpfUP\obj\Debug\WpfUP.g.resources
+C:\Users\krochev\Desktop\999\WpfUP\obj\Debug\WpfUP.Properties.Resources.resources
+C:\Users\krochev\Desktop\999\WpfUP\obj\Debug\WpfUP.csproj.GenerateResource.Cache
+C:\Users\krochev\Desktop\999\WpfUP\obj\Debug\WpfUP.exe
+C:\Users\krochev\Desktop\999\WpfUP\obj\Debug\WpfUP.pdb
+C:\Users\Администратор\Source\Repos\up\WpfUP\bin\Debug\WpfUP.exe.config
