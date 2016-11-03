@@ -1,2 +1,8 @@
 C:\Users\krochev\Desktop\Новая папка\up\WpfUP\WpfUP\bin\Debug\WpfUP.exe.config
 C:\Users\vsout_000\Source\Repos\up\WpfUP\bin\Debug\WpfUP.exe.config
+C:\Users\vsout_000\Source\Repos\up\WpfUP\obj\Debug\WpfUP.exe
+C:\Users\vsout_000\Source\Repos\up\WpfUP\obj\Debug\WpfUP.pdb
+C:\Users\vsout_000\Source\Repos\up\WpfUP\obj\Debug\WpfUP.csprojResolveAssemblyReference.cache
+C:\Users\vsout_000\Source\Repos\up\WpfUP\obj\Debug\MainWindow.g.cs
+C:\Users\vsout_000\Source\Repos\up\WpfUP\obj\Debug\WpfUP_MarkupCompile.cache
+C:\Users\vsout_000\Source\Repos\up\WpfUP\obj\Debug\WpfUP_MarkupCompile.lref
