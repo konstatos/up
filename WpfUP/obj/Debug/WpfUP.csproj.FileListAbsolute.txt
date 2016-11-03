@@ -13,3 +13,4 @@ C:\Users\krochev\Desktop\999\WpfUP\obj\Debug\WpfUP.Properties.Resources.resource
 C:\Users\krochev\Desktop\999\WpfUP\obj\Debug\WpfUP.csproj.GenerateResource.Cache
 C:\Users\krochev\Desktop\999\WpfUP\obj\Debug\WpfUP.exe
 C:\Users\krochev\Desktop\999\WpfUP\obj\Debug\WpfUP.pdb
+C:\Users\Администратор\Source\Repos\up\WpfUP\bin\Debug\WpfUP.exe.config
